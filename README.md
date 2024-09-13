@@ -18,3 +18,4 @@ The models on which test, train data has been deployed are
    Naive Bayes
    Logistic Regression
    Random Forest
+   Decision Tree
